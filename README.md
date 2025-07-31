@@ -1,4 +1,5 @@
-### Este es mi GIT-HUB 👋
+<h1 align = "center">Hola! soy Adrián y este es mi GIT-HUB 👋</h1>
+<img src="https://i.ibb.co/CKkNQWQC/baner-rengoku.jpg">
 
 <!--
 **AdrianMO290922/AdrianMO290922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
